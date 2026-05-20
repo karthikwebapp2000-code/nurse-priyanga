@@ -1,0 +1,29 @@
+{
+  "partner": {
+    "name": "Kauvery Hospital",
+    "tagline": "Quaternary Care — Empathy Driven, Patient First",
+    "founded": 1999,
+    "website": "https://www.kauveryhospital.com",
+    "headquarters": "Chennai, Tamil Nadu, India",
+    "beds": {
+      "alwarpet": 300,
+      "radialRoad": 250,
+      "cantonment": 225,
+      "heartcity": 100
+    },
+    "locations": ["Chennai","Trichy","Salem","Hosur","Tirunelveli","Bengaluru"],
+    "specialties": ["Cardiology","Neurology","Oncology","Gastroenterology","Orthopaedics","Urology","Transplants"],
+    "contacts": {
+      "chennaiAlwarpet": "044 40006000",
+      "trichy": "0431 4077777",
+      "salem": "0427 2677777"
+    },
+    "nursingHighlights": [
+      "Dedicated CNE (Continuing Nursing Education) programmes",
+      "Round-the-clock specialised nursing care",
+      "Nursing excellence awards for frontline heroes",
+      "Evidence-based nursing protocols across all units"
+    ],
+    "quote": "Nurses have been at the forefront of promoting health, advocating for patients, and advancing the science of care."
+  }
+}

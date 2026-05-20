@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Empowered Nurses – Our Future",
+    "year": 2026,
+    "site": "https://nurse-priyanga.vercel.app",
+    "createdBy": "Karthik",
+    "brand": "Priyanga",
+    "slogan": "Empowered Nurses Save Lives"
+  },
+  "categories": [
+    { "id": 1, "title": "The Superhero Nurse", "ageGroup": "5–12", "icon": "🦸‍♀️", "tag": "Junior" },
+    { "id": 2, "title": "Light in the Dark",   "ageGroup": "13–18","icon": "💡",  "tag": "Youth"  },
+    { "id": 3, "title": "Nurses of Tomorrow",  "ageGroup": "19–25","icon": "🌍",  "tag": "Senior" },
+    { "id": 4, "title": "Heart of Healthcare", "ageGroup": "Open", "icon": "❤️",  "tag": "Open"   }
+  ],
+  "timeline": [
+    { "phase": "Registration Opens",  "date": "01 March 2026"  },
+    { "phase": "Submission Deadline", "date": "30 April 2026"  },
+    { "phase": "Judging Period",      "date": "01–10 May 2026" },
+    { "phase": "Winners Announced",   "date": "12 May 2026"    },
+    { "phase": "Award Ceremony",      "date": "20 May 2026"    }
+  ],
+  "prizes": [
+    { "rank": "1st Place", "prize": "Gold Trophy + Certificate + ₹5,000" },
+    { "rank": "2nd Place", "prize": "Silver Trophy + Certificate + ₹3,000" },
+    { "rank": "3rd Place", "prize": "Bronze Trophy + Certificate + ₹1,500" },
+    { "rank": "Participation", "prize": "Digital Certificate of Excellence" }
+  ]
+}
